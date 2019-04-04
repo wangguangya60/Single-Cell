@@ -8,3 +8,10 @@
 * [UMI counting issues](https://hemberg-lab.github.io/scRNA.seq.course/construction-of-expression-matrix.html)
 ![image](img/UMI.issues.png)
 
+## Dimensionality reductions
+*  [PCA plot](https://hemberg-lab.github.io/scRNA.seq.course/cleaning-the-expression-matrix.html#visual-pca)
+*  [tSNE map](https://hemberg-lab.github.io/scRNA.seq.course/cleaning-the-expression-matrix.html#visual-tsne)
+*  [MDS plot]
+
+## Clustering of cells
+*  [Clustering methods](https://hemberg-lab.github.io/scRNA.seq.course/biological-analysis.html)
