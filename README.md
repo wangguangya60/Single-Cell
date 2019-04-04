@@ -10,6 +10,7 @@
 
 ## Dimensionality reductions
 *  [PCA plot](https://hemberg-lab.github.io/scRNA.seq.course/cleaning-the-expression-matrix.html#visual-pca)， Convert a set of observations into a set of values of linearly uncorrelated variables called principal components 
+![PCA](img/PCA.png)
 *  [tSNE map](https://hemberg-lab.github.io/scRNA.seq.course/cleaning-the-expression-matrix.html#visual-tsne)
 *  [MDS plot]
 
