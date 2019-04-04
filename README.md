@@ -16,3 +16,6 @@
 
 ## Clustering of cells
 *  [Clustering methods](https://hemberg-lab.github.io/scRNA.seq.course/biological-analysis.html)
+*  [Clustering packages and softwares](https://hemberg-lab.github.io/scRNA.seq.course/biological-analysis.html#clustering-introduction)
+*  [SC3](https://github.com/hemberg-lab/SC3)
+*  [pcaReduce](https://github.com/JustinaZ/pcaReduce)
