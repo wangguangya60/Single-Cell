@@ -19,3 +19,7 @@
 *  [Clustering packages and softwares](https://hemberg-lab.github.io/scRNA.seq.course/biological-analysis.html#clustering-introduction)
 *  [SC3](https://github.com/hemberg-lab/SC3)
 *  [pcaReduce](https://github.com/JustinaZ/pcaReduce)
+
+## experimental issues
+*  Appropriate approaches to batch effects in scRNASeq. Red arrows indicate batch effects which are (pale) or are not (vibrant) correctable through batch-correction
+![batch effects](img/batch.effects.png)
