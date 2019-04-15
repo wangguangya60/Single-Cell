@@ -25,5 +25,5 @@
 ![batch effects](img/batch.effects.png)
 
 ## Datasets
-*  [Tabula Muris](https://tabula-muris.ds.czbiohub.org/) contains nearly 100,000 cells from 20 organs and tissues in Mus musculus. [github](https://github.com/czbiohub/tabula-muris)
+*  [Tabula Muris](https://tabula-muris.ds.czbiohub.org/) contains nearly 100,000 cells from 20 organs and tissues in Mus musculus. [github](https://github.com/czbiohub/tabula-muris). [dataset download](https://figshare.com/projects/Tabula_Muris_Transcriptomic_characterization_of_20_organs_and_tissues_from_Mus_musculus_at_single_cell_resolution/27733)
 *  [summary of scRNA-seq tools](https://www.scrna-tools.org/)
