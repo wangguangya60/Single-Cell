@@ -8,6 +8,12 @@
 ## UMI
 * [UMI counting issues](https://hemberg-lab.github.io/scRNA.seq.course/construction-of-expression-matrix.html)
 ![image](img/UMI.issues.png)
+* [error correction for cell barcodes and UMIs](https://davetang.org/muse/2018/06/06/10x-single-cell-bam-files/)
+* [UMI-tools](https://genome.cshlp.org/content/27/3/491.full) used a network approach to join UMIs that map to the same location and only differed by 1 bp, which was caused by PCR amplification.
+* [The Chromium Single Cell 3’ lib](https://teichlab.github.io/scg_lib_structs/methods_html/10xChromium3.html)
+
+## Alignment of single cell fastqs
+* [Introduction to bam file produced by cellranger](https://davetang.org/muse/2018/06/06/10x-single-cell-bam-files/)
 
 ## Dimensionality reductions
 *  [PCA plot](https://hemberg-lab.github.io/scRNA.seq.course/cleaning-the-expression-matrix.html#visual-pca)， Convert a set of observations into a set of values of linearly uncorrelated variables called principal components 
