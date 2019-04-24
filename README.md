@@ -14,7 +14,8 @@
 * [The difference between 3' and 5' lib](https://kb.10xgenomics.com/hc/en-us/articles/360000939852-What-is-the-difference-between-Single-Cell-3-and-5-Gene-Expression-libraries-)
 
 ## Alignment of single cell fastqs
-* [Introduction to bam file produced by cellranger](https://davetang.org/muse/2018/06/06/10x-single-cell-bam-files/)
+* [Introduction to bam file produced by cellranger](https://davetang.org/muse/2018/06/06/10x-single-cell-bam-files/), [official](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/output/bam)
+*  Read1 (the read containing the cell barcode and UMI) will not have its own line in the bams, the information about read1 is recorded in read2 alignment records
 
 ## Dimensionality reductions
 *  [PCA plot](https://hemberg-lab.github.io/scRNA.seq.course/cleaning-the-expression-matrix.html#visual-pca)， Convert a set of observations into a set of values of linearly uncorrelated variables called principal components 
