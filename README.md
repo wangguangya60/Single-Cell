@@ -19,6 +19,10 @@
 * [overview of algorithms](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/algorithms/overview): firsit map
 * [quantification](https://salmon.readthedocs.io/en/latest/alevin.html)
 
+## 10X output gene expression matrix (Market Matrix format to store sparce matrix)
+* [read and transform step by step](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/output/matrices)
+* [transform *.mtx to padas dataframe](https://stackoverflow.com/questions/40514521/transform-matrix-market-matrix-into-pandas-data-frame-python)
+
 ## Dimensionality reductions
 *  [PCA plot](https://hemberg-lab.github.io/scRNA.seq.course/cleaning-the-expression-matrix.html#visual-pca)， Convert a set of observations into a set of values of linearly uncorrelated variables called principal components 
 ![PCA](img/PCA.png)
