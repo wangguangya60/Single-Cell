@@ -22,7 +22,7 @@
 ## 10X output gene expression matrix (Market Matrix format to store sparce matrix)
 * [read and transform step by step](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/output/matrices)
 * [transform *.mtx to padas dataframe](https://stackoverflow.com/questions/40514521/transform-matrix-market-matrix-into-pandas-data-frame-python)
-* [Suerat tutorial](https://satijalab.org/seurat/v3.0/pbmc3k_tutorial.html)
+* [Suerat tutorial](https://satijalab.org/seurat/v3.0/pbmc3k_tutorial.html) and [algorithms behind](https://www.biorxiv.org/content/biorxiv/early/2018/11/02/460147.full.pdf)
 
 ## Dimensionality reductions
 *  [PCA plot](https://hemberg-lab.github.io/scRNA.seq.course/cleaning-the-expression-matrix.html#visual-pca)， Convert a set of observations into a set of values of linearly uncorrelated variables called principal components 
