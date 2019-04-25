@@ -24,6 +24,11 @@
 * [transform *.mtx to padas dataframe](https://stackoverflow.com/questions/40514521/transform-matrix-market-matrix-into-pandas-data-frame-python)
 * [Suerat tutorial](https://satijalab.org/seurat/v3.0/pbmc3k_tutorial.html) and [algorithms behind](https://www.biorxiv.org/content/biorxiv/early/2018/11/02/460147.full.pdf)
 
+## Introduction to Scanpy
+* [Scanpy](https://github.com/theislab/scanpy) use [AnnData](https://anndata.readthedocs.io/en/latest/anndata.AnnData.html), which is based on HDF5 to record expression data
+* [basic usage of AnnData](http://falexwolf.de/blog/171223_AnnData_indexing_views_HDF5-backing/).
+
+
 ## Dimensionality reductions
 *  [PCA plot](https://hemberg-lab.github.io/scRNA.seq.course/cleaning-the-expression-matrix.html#visual-pca)， Convert a set of observations into a set of values of linearly uncorrelated variables called principal components 
 ![PCA](img/PCA.png)
