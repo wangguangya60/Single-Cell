@@ -3,7 +3,7 @@
 *  [Slide-seq](https://www.broadinstitute.org/news/new-tool-uses-rna-sequencing-chart-rich-maps-cellular-and-tissue-function?utm_source=twitter&utm_content=news-story%2Ctools&utm_medium=social&utm_campaign=Broad+Institute) A scalable technology for measuring genome-wide expression at high spatial resolution. [article](https://sci-hub.tw/10.1126/science.aaw1219)
 * [course](https://hemberg-lab.github.io/scRNA.seq.course/construction-of-expression-matrix.html)
 * [New York genome center](https://www.nygenome.org/lab-groups-overview/publications/)
-
+* [ATAT-seq](https://www.nature.com/articles/s41467-019-09670-4), [github](https://github.com/pinellolab/STREAM)
 
 ## UMI
 * [UMI counting issues](https://hemberg-lab.github.io/scRNA.seq.course/construction-of-expression-matrix.html)
