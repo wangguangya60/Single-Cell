@@ -17,6 +17,7 @@
 * [Introduction to bam file produced by cellranger](https://davetang.org/muse/2018/06/06/10x-single-cell-bam-files/), [official](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/output/bam)
 * Read1 (the read containing the cell barcode and UMI) will not have its own line in the bams, the information about read1 is recorded in read2 alignment records
 * [overview of algorithms](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/algorithms/overview): firsit map
+* [mapping to genome or transcripts](https://github.com/CGATOxford/UMI-tools/blob/master/doc/Single_cell_tutorial.md#Mapping-to-the-transcriptome-rather-than-genome)
 * [quantification](https://salmon.readthedocs.io/en/latest/alevin.html)
 
 ## 10X output gene expression matrix (Market Matrix format to store sparce matrix)
