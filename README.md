@@ -5,11 +5,12 @@
 * [New York genome center](https://www.nygenome.org/lab-groups-overview/publications/)
 * [ATAT-seq](https://www.nature.com/articles/s41467-019-09670-4), [github](https://github.com/pinellolab/STREAM)
 
-## UMI
+## Cell barcode and UMI 
 * [UMI counting issues](https://hemberg-lab.github.io/scRNA.seq.course/construction-of-expression-matrix.html)
 ![image](img/UMI.issues.png)
 * [error correction for cell barcodes and UMIs](https://davetang.org/muse/2018/06/06/10x-single-cell-bam-files/)
 * [UMI-tools](https://genome.cshlp.org/content/27/3/491.full) used a network approach to join UMIs that map to the same location and only differed by 1 bp, which was caused by PCR amplification.
+* [alevin](https://github.com/COMBINE-lab/salmon/blob/master/doc/source/alevin.rst) is simialr tool, [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1670-y)
 * [The Chromium Single Cell 3'lib](https://teichlab.github.io/scg_lib_structs/methods_html/10xChromium3.html)
 * [The difference between 3' and 5' lib](https://kb.10xgenomics.com/hc/en-us/articles/360000939852-What-is-the-difference-between-Single-Cell-3-and-5-Gene-Expression-libraries-)
 
