@@ -8,6 +8,7 @@
 ## Cell barcode and UMI 
 * [UMI counting issues](https://hemberg-lab.github.io/scRNA.seq.course/construction-of-expression-matrix.html)
 ![image](img/UMI.issues.png)
+* [Cell Ranger correct barcode sequencing errors correction](https://kb.10xgenomics.com/hc/en-us/articles/115003822406-How-does-Cell-Ranger-correct-barcode-sequencing-errors-) based on whitelist.
 * [error correction for cell barcodes and UMIs](https://davetang.org/muse/2018/06/06/10x-single-cell-bam-files/)
 * [UMI-tools](https://genome.cshlp.org/content/27/3/491.full) used a network approach to join UMIs that map to the same location and only differed by 1 bp, which was caused by PCR amplification. [paper](https://genome.cshlp.org/content/27/3/491.full)
 * [alevin](https://github.com/COMBINE-lab/salmon/blob/master/doc/source/alevin.rst) is simialr tool, [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1670-y)
