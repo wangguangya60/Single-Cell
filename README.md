@@ -35,6 +35,12 @@
 * [basic usage of AnnData](http://falexwolf.de/blog/171223_AnnData_indexing_views_HDF5-backing/).
 
 
+## Downstream Analysis (start from expression matrix)
+1. FindVariableGenes to get PCs
+2. choose top PCs to cluster cells (C1,C2,C3 ...)
+3. use the same top PCs to plot tSNE map (using cluster results to mark cells in the map with different colors)
+4. use known markers to label clusters
+
 ## Dimensionality reductions
 *  [PCA plot](https://hemberg-lab.github.io/scRNA.seq.course/cleaning-the-expression-matrix.html#visual-pca)， Convert a set of observations into a set of values of linearly uncorrelated variables called principal components 
 ![PCA](img/PCA.png)
