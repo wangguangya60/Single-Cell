@@ -5,7 +5,8 @@
 * [New York genome center](https://www.nygenome.org/lab-groups-overview/publications/)
 * [ATAT-seq](https://www.nature.com/articles/s41467-019-09670-4), [github](https://github.com/pinellolab/STREAM)
 
-## Cell barcode and UMI 
+## Cell barcode and UMI
+* [10X valid barcodes](https://kb.10xgenomics.com/hc/en-us/articles/115004506243-What-are-valid-barcodes-) and [barcodes correction](https://kb.10xgenomics.com/hc/en-us/articles/115003822406-How-does-Cell-Ranger-correct-barcode-sequencing-errors-)
 * [UMI counting issues](https://hemberg-lab.github.io/scRNA.seq.course/construction-of-expression-matrix.html)
 ![image](img/UMI.issues.png)
 * [Cell Ranger correct barcode sequencing errors correction](https://kb.10xgenomics.com/hc/en-us/articles/115003822406-How-does-Cell-Ranger-correct-barcode-sequencing-errors-) based on whitelist.
